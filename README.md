@@ -1,5 +1,8 @@
 # Stock Market Analysis with Machine Learning
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
+## Introduction
 This repository contains a series of Jupyter Notebooks created as part of my bachelor thesis titled **"Application of Machine Learning Algorithms for Stock Market Instrument Analysis."** The project focuses on applying machine learning techniques, particularly Long Short-Term Memory (LSTM) models, for stock market prediction. It also incorporates sentiment analysis to explore the relationship between public sentiment and stock price trends, as well as statistical methods (RSI, EMA).
 
 Through this project, I explore the challenges and possibilities of leveraging the aforementioned methods. The work highlights key insights, trends, and limitations of these approaches, but also numerous pitfalls which many novice ML developers often fall into, misinterpreting model outputs as highly accurate predictions.
