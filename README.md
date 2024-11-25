@@ -22,6 +22,7 @@ The repository is structured into five notebooks, each covering a specific aspec
 
 ### 2. **Sentiment Analysis**
    - Sentiment analysis of news articles using VADER (Valence Aware Dictionary and sEntiment Reasoner), a lexicon- and rule-based NLP tool designed for sentiment analysis of textual data.
+   - Comparing VADER against BERT (Bidirectional encoder representations from transformers) and FinBERT
    - Visualization of sentiment trends alongside stock prices.
    - Key Observations:
      - Does the sentiment align well with stock prices?
@@ -52,8 +53,9 @@ The repository is structured into five notebooks, each covering a specific aspec
 ---
 
 ### 5. **LSTM - Trend Prediction**
-   - Explores the potential of LSTM models for predicting general price trends over the next X days instead of daily price movements.
+   - Explores the potential of LSTM models for predicting general price trends over the next X days instead of daily price movements
    - Key Question: Can LSTMs effectively identify broad market trends, making them useful for long-term (30-90 days) investment strategies?
+   - Useful charts comparing the investment strategy against the actual stock returns.
 
 ---
 
